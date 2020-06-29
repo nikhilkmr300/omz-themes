@@ -6,13 +6,10 @@ local input_color=220
 # Uncomment the following line to hide the virtual environment name.
 # export VIRTUAL_ENV_DISABLE_PROMPT=1
 
-# Directory details in cyan, bold
-local dir='%B$FG[${dir_color}]%~%{$reset_color%}'
-
 # Error message on command returning non-zero exit code
 error_msg="\e[0;31mCommand failed"
 
-PROMPT="${dir}$ $FG[${input_color}]"
+PROMPT="$FG[${dir_color}]%.$FG[${input_color}] > "
 
 # Resetting color to default white.
 preexec()
