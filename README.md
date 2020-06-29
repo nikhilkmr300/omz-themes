@@ -48,6 +48,7 @@ It does away with the long path after the username, and retains only the basenam
 
 # Installation
 You first need to have Z shell and Oh My Zsh installed.
+
 You can install Zsh on MacOS using `brew install zsh` or `sudo apt install zsh` on Ubuntu.
 
 You can install Oh My Zsh using the instructions in their repository (link above).
