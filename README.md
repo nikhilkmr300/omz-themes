@@ -56,7 +56,7 @@ Make sure you install [Powerline Fonts](https://github.com/powerline/fonts) so t
 
 Once you download the theme of your choice from the themes directory,
 move it to the custom/themes directory in your Oh My Zsh installation on your machine
-(it's a hidden folder, so use ls -a to find it, it's likely in ~/.oh-my-zsh).
+(it's a hidden folder, so use `ls -a` to find it, it's likely in ~/.oh-my-zsh).
 
 All you need to do then is add the name of the theme (without the zsh-theme extension) to the .zshrc file at ~.
 
