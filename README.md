@@ -3,7 +3,8 @@ A collection of themes for Oh My Zsh.
 
 Oh My Zsh is framework for managing Z shell (Zsh). You can find their repository [here](https://github.com/ohmyzsh/ohmyzsh).
 
-This repository contains a few themes you can use with Zsh and Oh My Zsh.
+I was playing around with customizing my terminal and creating some cool custom themes to pimp it up.
+This repository contains some of the shell scripts I wrote to generate the themes.
 
 ## color-input
 <img src=https://github.com/nikhilkmr300/omz-themes/blob/master/images/color-input.png width=640>
